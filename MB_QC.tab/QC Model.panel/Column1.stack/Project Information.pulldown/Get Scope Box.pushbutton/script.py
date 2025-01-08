@@ -40,7 +40,7 @@ from Autodesk.Revit.DB import FilteredElementCollector, BuiltInCategory, Element
 from pyrevit import script, revit, forms                                        # import pyRevit modules. (Lots of useful features)
 
 # Custom Imports
-from Snippets._selection import get_selected_elements                   # lib import
+# from Snippets._selection import get_selected_elements                   # lib import
 
 # .NET Imports
 import clr                                  # Common Language Runtime. Makes .NET libraries accessinble
