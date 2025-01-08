@@ -29,7 +29,7 @@ from pyrevit import revit, DB
 uidoc = __revit__.ActiveUIDocument
 doc = __revit__.ActiveUIDocument.Document
 
-__doc__ = 'MB-Box toolbar'\
+__doc__ = 'MB-QC toolbar'\
           
 # find the path of ui.xaml
 from pyrevit import UI

@@ -38,13 +38,13 @@
                    Source="https://static.wixstatic.com/media/265d8f_7ad74719d9bd4f65b91300b68c27ee8e~mv2.png/v1/fill/w_271,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo-07.png"
                    Width="200" Height="200" />
                 <StackPanel Grid.Column="1" HorizontalAlignment="Left">
-                    <Label FontSize="16" FontWeight="Bold">MB-Box</Label>
+                    <Label FontSize="16" FontWeight="Bold">MB-QC</Label>
                     <Label/>
                     <TextBlock TextWrapping="Wrap" MaxWidth="200" Margin="4">
-                        Custom tools for Architects and BIM Managers.
+                        Quality control model checks for Architects and BIM Managers.
                     </TextBlock>
                     <TextBlock TextWrapping="Wrap" MaxWidth="200" Margin="4">
-                        This set of tools was developed by Miss BIM.
+                        This set of checks was developed by Miss BIM.
                         All copyright are reserved.
                     </TextBlock> 
                     <Label/>
