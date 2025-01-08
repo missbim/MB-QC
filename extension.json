@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "MB_QC",
+    "description": "Quality Control model checks for Architects and BIM Managers",
+    "author": "Miss BIM",
+    "author_profile": "https://www.linkedin.com/company/missbim/",
+    "url": "https://github.com/missbim/MB-QC.git",
+    "website": "https://www.missbim.co.il",
+    "image": "",
+    "dependencies": []
+}
